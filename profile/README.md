@@ -1,4 +1,4 @@
-# Pokemon Sword Switch NSP XCI ROM (Full Game)
+# Pokemon Sword Switch NSP XCI ROM
 
 **Pokémon Sword** is a role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch. Set in the Galar region, the game introduces a new generation of Pokémon, a new region to explore, and exciting battle mechanics such as Dynamax and Gigantamax.
 
